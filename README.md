@@ -113,7 +113,7 @@ query_id3=xxxxxxxxx-Rxxxxuj
 Run the bot using the following command:
 
 ```bash
-python main.py
+python bot.py
 ```
 
 ## Proxy Support
