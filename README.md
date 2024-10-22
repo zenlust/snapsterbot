@@ -32,7 +32,7 @@ SnapsterBot is an asynchronous Python bot built to interact with the Snapster AP
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/jawikas/snapster-bot.git
+git clone https://github.com/zenlust/snapsterbot.git
 ```
 2. Navigate to the project directory:
 
